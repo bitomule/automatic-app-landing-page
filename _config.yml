@@ -37,7 +37,7 @@ features                                  :
     
   - title                                 : Keep products under control
     description                           : Add your products and relate them to providers
-    fontawesome_icon_name                 : bacon
+    fontawesome_icon_name                 : cheese
 
   - title                                 : Orders
     description                           : Create orders with multiple providers in one single order
