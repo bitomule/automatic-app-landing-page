@@ -18,7 +18,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : David Collado                                
 your_link                                 : https://blog.bitomule.com                     
-your_city                                 : Guadalajara                                
+your_city                                 : Spain                                
 email_address                             : bitomule@gmail.com
 facebook_username                         :                                           
 instagram_username                        : 
@@ -33,39 +33,35 @@ features                                  :
 
   - title                                 : Manage providers
     description                           : Keep your providers information in place 
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : truck
     
   - title                                 : Keep products under control
     description                           : Add your products and relate them to providers
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : hamburger
 
   - title                                 : Orders
     description                           : Create orders with multiple providers in one single order
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : list
 
   - title                                 : For professionals
     description                           : With professional users in mind while keeping it simple
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : user-tie
 
   - title                                 : Send to provider
     description                           : Directly send your orders to your providers throught any third party app
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : paper-plane
   
   - title                                 : Complete
     description                           : Mark your orders as completed and keep track of pending orders.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : check-square
 
   - title                                 : Schedule
     description                           : You need to do an order in the future? Schedule and recieve a notification just when you need it
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+    fontawesome_icon_name                 : clock
 
   - title                                 : Privacy
     description                           : All your information is never sent outside. You´re the only owner.
-    fontawesome_icon_name                 : info-circle
+    fontawesome_icon_name                 : user-secret
 
 
 
