@@ -34,13 +34,9 @@ features                                  :
   - title                                 : Manage providers
     description                           : Keep your providers information in place 
     fontawesome_icon_name                 : truck
-    
-  - title                                 : Keep products under control
-    description                           : Add your products and relate them to providers
-    fontawesome_icon_name                 : cheese
 
   - title                                 : Orders
-    description                           : Create orders with multiple providers in one single order
+    description                           : Create orders with multiple providers in one single order and manage it's status
     fontawesome_icon_name                 : list
 
   - title                                 : For professionals
@@ -50,10 +46,6 @@ features                                  :
   - title                                 : Send to provider
     description                           : Directly send your orders to your providers throught any third party app
     fontawesome_icon_name                 : paper-plane
-  
-  - title                                 : Complete
-    description                           : Mark your orders as completed and keep track of pending orders.
-    fontawesome_icon_name                 : check-square
 
   - title                                 : Schedule
     description                           : You need to do an order in the future? Schedule and recieve a notification just when you need it
